@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.cabeçalho{
+    background-color: black;
+    color:  white;
+}
+.cabeçalho_titulo{
+    font-size: 60px;
+    text-align: center;
+}
+.cabeçalho_subtitulo{
+    text-align: center;
+}
+.seção_introdução{
+    background-color: black;
+    color: white;
+}
+.paragrafo_introdução{
+    text-align: justify;
+    font-size: 30px;
+}
+.lista_paginas_secundarias{
+    background-color: black;
+    color: white;
+    justify-content: space-around;
+}
