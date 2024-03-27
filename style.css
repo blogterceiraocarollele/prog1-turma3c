@@ -2,9 +2,12 @@
     margin: 0%;
     padding: 0%;
 }
-.cabeçalho{
+.corpo{
     background-color: black;
     color:  white;
+}
+.cabeçalho{
+
 }
 .cabeçalho_titulo{
     font-size: 60px;
